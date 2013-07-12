@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*.inline li{
+	display: inline-block;	
+}*/
+
+.slide1, .slide2{
+	width: 720px;
+	overflow: hidden;
+	
+}
+
+.flexslider .slide1 img {
+	width: 	512px;
+}
+
+.flexslider .slide2 img{
+	width: 470px;
+}
+
+.panel .front{
+	width: 228px;
+	height:147px;	
+}
+
+.panel .back{
+	width: 228px;
+	height:147px;		
+}
+
+ul.callout li{
+	display: inline;	
+}
+
+#equity li{
+	vertical-align: bottom;	
+	float: left;
+}
+
+#equity ul li ul li{
+	margin-bottom: 0;
+	padding-bottom: 0;	
+}
+
+.flex-viewport{
+	 width: 715px;
+    height: 310px;
+	overflow: hidden;
+}
+
+.home-slider{
+	width: 715px;
+	overflow: hidden;
+	background: none;
+	position: relative;	
+}
+
+.flexslider {
+    width: 725px;
+    height: 310px;
+	overflow: hidden;
+}
+
+
+.flexslider .slide1{
+	width: 715px;
+    height: 310px;
+	
+}
+
+.flexslider .slide2{
+	width: 715px;
+    height: 310px;
+	
+}
+
+.flexslider .flex-active-slide{
+		width: 715px;
+    height: 310px;
+
+}

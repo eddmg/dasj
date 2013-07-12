@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 TRANSITIONAL//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="ZA5NlFKecPCphmlVROYrQf9SZnd+uGp&#47;9kEyr74sYO8="/>
+  <title>Project Path (Corp/MarketingServices/Pub-Vendor): Sign in</title>
+  
+  <link rel="apple-touch-icon" href="https://dge9rmgqjs8m1.cloudfront.net/global/3b1dde62f5e4ff6c1c3e20fee89c3a605e803f9a/apple-touch-icon.png?r=3" />
+
+  <script src="https://asset1.basecamphq.com/rev_5f3844f/sprockets.js?d054783ea65e5c531cddd5ac4538c2b5" type="text/javascript"></script>
+    <link href="https://asset1.basecamphq.com/rev_5f3844f/application.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="https://asset1.basecamphq.com/rev_5f3844f/stylesheets/print/application.css" media="print" rel="stylesheet" type="text/css" />
+  
+  <!--[if IE]><link href="https://asset1.basecamphq.com/rev_5f3844f/stylesheets/ie/base.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+
+
+    <meta name="queenbee-id" content="281318" />
+
+  <meta name="return-to-location" content="/projects/10961375/file/156072277/MethodologyMatters-Web-FINAL.pdf" />
+
+  <script type="text/javascript">
+    if (Login.recoverSessionToken()) {
+      Login.clearPersistedTokens();
+      window.location = "/projects/10961375/file/156072277/MethodologyMatters-Web-FINAL.pdf";
+    }
+  </script>
+
+</head>
+
+<body class="login">
+    <div id="LogoBox"><img alt="Dean Media Group" src="https://dmgprojects.basecamphq.com/companies/685062/logo.gif" /></div>
+
+
+  <div class="login">
+    
+
+    <div class="flash_notice" id="Flash">Please sign in first and then we'll send you right along.</div>
+
+    
+
+
+<div id="login_dialog" class="login_dialog">
+  <form accept-charset="UTF-8" action="https://launchpad.37signals.com/authenticate" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ZA5NlFKecPCphmlVROYrQf9SZnd+uGp/9kEyr74sYO8=" /></div>
+    <input id="product" name="product" type="hidden" value="basecamp" />
+    <input id="subdomain" name="subdomain" type="hidden" value="dmgprojects" />
+
+    <div id="user_name_login">
+      <h2>Username or email</h2>
+      <input autocapitalize="off" autocorrect="off" id="username" name="username" type="text" /><br/>
+
+      <h2>Password</h2>
+      <input id="password" name="password" type="password" /><br/>
+
+        <label><input class="auto" id="remember_me" name="remember_me" type="checkbox" value="1" /> Remember me on this computer</label><br />
+
+      <input class="button" name="commit" type="submit" value="Sign in" />
+
+      <div class="extras">
+        <ul>
+          <li><strong>Help:</strong> <a href="/amnesia/forgot_password">I forgot my username or password</a></li>
+        </ul>
+      </div>
+    </div>
+</form></div>
+
+<script type="text/javascript">
+//<![CDATA[
+$("username").focus()
+//]]>
+</script>
+
+  </div>
+</body>
+
+</html>
